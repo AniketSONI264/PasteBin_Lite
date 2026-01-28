@@ -61,9 +61,10 @@ export default function NotFound() {
           <h2 className="text-3xl font-bold text-terminal-cyan mb-2">
             PASTE_NOT_FOUND
           </h2>
-          <p className="text-gray-400 text-lg">
-            This paste doesn&apos;t exist, has expired, or view limit exceeded
-          </p>
+<p className="text-gray-400 text-lg">
+  {"This paste doesn't exist, has expired, or view limit exceeded"}
+</p>
+
         </div>
 
         <div className="space-y-4">
